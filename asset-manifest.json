@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/marketkurly_react_github/static/css/main.b666cb70.css",
+    "main.js": "/marketkurly_react_github/static/js/main.3bdd5ef0.js",
+    "static/media/92caebda-2c7b-4ee8-8d43-d2df9c21e703.png": "/marketkurly_react_github/static/media/92caebda-2c7b-4ee8-8d43-d2df9c21e703.573cf8a92619fe8cb52c.png",
+    "static/media/deliveryInfo.png": "/marketkurly_react_github/static/media/deliveryInfo.faf33b2327b3ef630758.png",
+    "index.html": "/marketkurly_react_github/index.html",
+    "static/media/notice_14_14_f03f40.svg": "/marketkurly_react_github/static/media/notice_14_14_f03f40.1d1e8f5e93c926fcf81a.svg",
+    "static/media/ico_search.svg": "/marketkurly_react_github/static/media/ico_search.54e66d6559497471753c.svg",
+    "static/media/check_off.svg": "/marketkurly_react_github/static/media/check_off.123d49c45255401f31f6.svg",
+    "static/media/icon_check_off.svg": "/marketkurly_react_github/static/media/icon_check_off.1349c49e7ac5d2de8d17.svg",
+    "static/media/check_on.svg": "/marketkurly_react_github/static/media/check_on.1269cbc67aca7cce360a.svg",
+    "static/media/icon_check_on.svg": "/marketkurly_react_github/static/media/icon_check_on.645d002cf257cc8d4c13.svg",
+    "static/media/icon_arrow_up.svg": "/marketkurly_react_github/static/media/icon_arrow_up.b18eab99b6e48a345672.svg",
+    "static/media/ico_sub_dot.svg": "/marketkurly_react_github/static/media/ico_sub_dot.f1c4a62d9156b1631e23.svg",
+    "static/media/arrow_up.svg": "/marketkurly_react_github/static/media/arrow_up.0eeda80f4277fc27ef5f2b1cf7aadecd.svg",
+    "static/media/arrow_right.svg": "/marketkurly_react_github/static/media/arrow_right.42809190e4b3d747003f.svg",
+    "main.b666cb70.css.map": "/marketkurly_react_github/static/css/main.b666cb70.css.map",
+    "main.3bdd5ef0.js.map": "/marketkurly_react_github/static/js/main.3bdd5ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b666cb70.css",
+    "static/js/main.3bdd5ef0.js"
+  ]
+}
